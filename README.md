@@ -1,4 +1,4 @@
-# Industrial-grade-3--load-equalizer
+# Industrial-grade-3-phase-load-equalizer
 ![Internal Block Diagram](https://user-images.githubusercontent.com/56249313/144718912-072bf193-35b6-43b2-808e-0a6cdde5f23f.jpg)
 
 Here we are introducing a Project “Industrial Grade Load Equalizer with Centralized Energy Measurement System” (IGLE with CEMS), which can dramatically change the existing problems in the power supply sector during unbalanced loading in electric lines and problem in calculating energy consumption of large number of consumers. Lots of problems are faced due to Phase unbalance, Which is mentioned below. If more consumers are in same Electric section, It is required to install more number of energy meter and is difficult to visit each consumer point to pick up the readings. These two problems can be easily solved by our project. It can be installed for consumers whose power demand is below 5kw and it is well suited for implementing in apartments. For pure industrial usage 3 Phase supply can be directly tapped from this system. 
